@@ -7,3 +7,5 @@ while True :
   if (age > 17 or weight >= 80) :
     print('%s Senior' %name)
   else : print('%s Junior' %name)
+
+  

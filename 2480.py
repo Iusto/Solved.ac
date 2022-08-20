@@ -1,4 +1,5 @@
-temp = input().split(" ")
+import sys
+temp = sys.stdin.readline().split(" ")
 list = []
 for i in temp:
   list.append(int(i))

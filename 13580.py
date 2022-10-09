@@ -8,4 +8,3 @@ if(li[0] == li[1] or li[1] == li[2] or li[0] + li[1] == li[2]) :
   print("S")
 else :
   print("N")
-  
